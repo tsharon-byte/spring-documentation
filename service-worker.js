@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spring-documentation/precache-manifest.3fba381ca86a193a7fa62f3c034d7aad.js"
+  "/spring-documentation/precache-manifest.bf497da94ed4686941de3a78bec4416a.js"
 );
 
 self.addEventListener('message', (event) => {
